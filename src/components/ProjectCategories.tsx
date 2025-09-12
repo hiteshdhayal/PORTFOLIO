@@ -9,7 +9,7 @@ const ProjectCategories: React.FC = () => {
       description: 'Full-stack applications built with React, Node.js, and modern web technologies',
       icon: <Code size={32} />,
       gradient: 'from-blue-500 to-purple-600',
-      projects: '6 Projects',
+      projects: '3 Projects',
     },
     {
       id: 'ai',

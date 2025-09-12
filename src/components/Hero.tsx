@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
         <div className="text-center max-w-5xl mx-auto">
           <div className="space-y-6">
             <div>
-              <h1 className="text-6xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight">
+              <h1 className="text-8xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight mt-20">
                 <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
                   HITESH
                 </span>
@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
               </div>
             </div>
 
-            <p className="text-xl sm:text-2xl text-gray-300 leading-relaxed max-w-4xl mx-auto">
+            <p className="text-xl font-bold sm:text-2xl text-gray-300 leading-relaxed max-w-4xl mx-auto">
               Fullstack Web Developer with hands-on experience in building scalable web applications using React.js,
               Node.js, Express.js, PostgreSQL, and MongoDB. Skilled in creating responsive UIs, developing RESTful
               APIs, and deploying applications in cloud and containerized environments. Passionate about delivering
@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
 
             <div className="flex justify-center gap-4 pt-6">
               <a
-                href="https://github.com"
+                href="https://github.com/hiteshdhayal"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white hover:bg-white/20 hover:scale-110 transition-all duration-300"
@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/hitesh-dhayal-943baa18a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white hover:bg-white/20 hover:scale-110 transition-all duration-300"
@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
                 <Linkedin size={24} />
               </a>
               <a
-                href="mailto:contact@example.com"
+                href="mailto:hiteshdhayal@gmail.com"
                 className="p-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white hover:bg-white/20 hover:scale-110 transition-all duration-300"
               >
                 <Mail size={24} />

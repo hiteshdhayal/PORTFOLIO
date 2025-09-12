@@ -14,28 +14,28 @@ interface Project {
 const WebDevProjects: React.FC = () => {
   const projects: Project[] = [
     {
-      id: 'ecommerce',
-      title: 'E-Commerce Platform',
-      description: 'Full-stack e-commerce solution with React, Node.js, and PostgreSQL featuring user authentication, payment integration, and admin dashboard.',
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
+      id: 'wedding-planner',
+      title: 'Wedding Planner',
+      description: 'Full-stack wedding planning application with user authentication, event management, and vendor integration.',
+      image: './src/assets/wedding-planner.png',
       technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe', 'JWT'],
-      liveUrl: 'https://example-ecommerce.com',
-      githubUrl: 'https://github.com/username/ecommerce'
+      liveUrl: 'https://6873b0e6b7c3971dd0771137--steady-narwhal-e31522.netlify.app/',
+      githubUrl: 'https://github.com/hiteshdhayal/betting-APP'
     },
     {
-      id: 'task-manager',
-      title: 'Project Management Tool',
-      description: 'Collaborative project management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
-      image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800',
+      id: 'betting-app',
+      title: 'Betting App',
+      description: 'Real-time betting application with user authentication, live odds, and payment integration.',
+      image: './src/assets/betting-app.png',
       technologies: ['React', 'Express.js', 'MongoDB', 'Socket.io', 'Tailwind'],
-      liveUrl: 'https://example-taskmanager.com',
-      githubUrl: 'https://github.com/username/task-manager'
+      liveUrl: 'https://687a1c00b6bc666bb8285cf4--brilliant-trifle-ea23e7.netlify.app/',
+      githubUrl: ''
     },
     {
-      id: 'social-media',
-      title: 'Social Media Dashboard',
-      description: 'Analytics dashboard for social media management with data visualization, scheduling features, and multi-platform integration.',
-      image: 'https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=800',
+      id: 'snake-game',
+      title: 'Snake Game',
+      description: 'Classic snake game built with React and TypeScript, featuring score tracking and responsive design.',
+      image: './src/assets/snake-game.png',
       technologies: ['React', 'Node.js', 'D3.js', 'Redis', 'Docker'],
       liveUrl: 'https://example-social.com',
       githubUrl: 'https://github.com/username/social-dashboard'
