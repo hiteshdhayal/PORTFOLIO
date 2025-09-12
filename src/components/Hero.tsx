@@ -5,10 +5,10 @@ const Hero: React.FC = () => {
   return (
     <section id="hero" className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex items-center justify-center px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
-        <div className="text-center max-w-7xl mx-auto">
-          <div className="space-y-10">
+        <div className="text-center max-w-5xl mx-auto">
+          <div className="space-y-6">
             <div>
-              <h1 className="text-8xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight mt-30">
+              <h1 className="text-8xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight mt-20">
                 <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
                   HITESH
                 </span>
