@@ -14,31 +14,31 @@ interface Project {
 const AIProjects: React.FC = () => {
   const projects: Project[] = [
     {
-      id: 'chatbot',
-      title: 'AI Customer Support Bot',
-      description: 'Intelligent customer support chatbot using LangChain and OpenAI GPT, featuring context awareness and multi-language support.',
+      id: 'AGENTS',
+      title: 'AI Automation AGENT',
+      description: 'Intelligent AI Agents using LangChain and OpenAI GPT, featuring context awareness and multi-language support.',
       image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['LangChain', 'OpenAI GPT', 'Python', 'FastAPI', 'React'],
-      liveUrl: 'https://example-chatbot.com',
-      githubUrl: 'https://github.com/username/ai-chatbot'
+      liveUrl: 'https://x.com/hiteshdhayall/status/1963672648841630145',
+      githubUrl: 'https://github.com/hiteshdhayal/CURSOR-CLI'
     },
     {
-      id: 'content-generator',
-      title: 'AI Content Generator',
-      description: 'Automated content creation platform that generates blog posts, social media content, and marketing copy using advanced AI models.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800',
+      id: 'persona-based-chatbot',
+      title: 'Persona-Based Chatbot',
+      description: 'Utilising LLM models build a persona instructed to respond as if it were Hitesh Choudhary & Piyush Garg to take reference tones dataset from their YouTube & Twitter',
+      image: 'https://www.freepik.com/free-photos-vectors/chatbot',
       technologies: ['GPT-4', 'LangChain', 'Streamlit', 'PostgreSQL', 'Docker'],
-      liveUrl: 'https://example-contentgen.com',
-      githubUrl: 'https://github.com/username/content-generator'
+      liveUrl: 'https://hiteshsirpersona.netlify.app/',
+      githubUrl: 'https://github.com/hiteshdhayal/HiteshSirPersona'
     },
     {
-      id: 'document-analyzer',
-      title: 'Document Intelligence System',
-      description: 'AI-powered document analysis tool that extracts insights, summarizes content, and answers questions about uploaded documents.',
-      image: 'https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=800',
+      id: 'RAG-system',
+      title: 'RAG Intelligence System',
+      description: 'AI-powered RAG insights, summarizes content, and answers questions about uploaded documents.',
+      image: 'https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation',
       technologies: ['LangChain', 'Chroma DB', 'FastAPI', 'React', 'OpenAI'],
-      liveUrl: 'https://example-docanalyzer.com',
-      githubUrl: 'https://github.com/username/document-analyzer'
+      liveUrl: '',
+      githubUrl: 'https://github.com/hiteshdhayal/RAG'
     }
   ];
 

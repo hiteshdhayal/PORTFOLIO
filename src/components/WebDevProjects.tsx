@@ -17,7 +17,7 @@ const WebDevProjects: React.FC = () => {
       id: 'wedding-planner',
       title: 'Wedding Planner',
       description: 'Full-stack wedding planning application with user authentication, event management, and vendor integration.',
-      image: './src/assets/wedding-planner.png',
+      image: 'https://ar.inspiredpencil.com/pictures-2023/ocean-wedding-reception',
       technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe', 'JWT'],
       liveUrl: 'https://6873b0e6b7c3971dd0771137--steady-narwhal-e31522.netlify.app/',
       githubUrl: 'https://github.com/hiteshdhayal/betting-APP'
@@ -26,7 +26,7 @@ const WebDevProjects: React.FC = () => {
       id: 'betting-app',
       title: 'Betting App',
       description: 'Real-time betting application with user authentication, live odds, and payment integration.',
-      image: './src/assets/betting-app.png',
+      image: 'https://esports.gg/news/esports/why-is-esports-betting-on-the-rise-a-look-at-recent-trends/',
       technologies: ['React', 'Express.js', 'MongoDB', 'Socket.io', 'Tailwind'],
       liveUrl: 'https://687a1c00b6bc666bb8285cf4--brilliant-trifle-ea23e7.netlify.app/',
       githubUrl: ''
@@ -35,7 +35,7 @@ const WebDevProjects: React.FC = () => {
       id: 'snake-game',
       title: 'Snake Game',
       description: 'Classic snake game built with React and TypeScript, featuring score tracking and responsive design.',
-      image: './src/assets/snake-game.png',
+      image: 'https://www.youtube.com/watch?v=6TOg0Hey7Mg',
       technologies: ['React', 'Node.js', 'D3.js', 'Redis', 'Docker'],
       liveUrl: 'https://example-social.com',
       githubUrl: 'https://github.com/username/social-dashboard'
