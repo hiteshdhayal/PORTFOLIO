@@ -34,7 +34,7 @@ const AIProjects: React.FC = () => {
     {
       id: 'RAG-system',
       title: 'RAG Intelligence System',
-      description: 'AI-powered RAG insights, summarizes content, and answers questions about uploaded documents.',
+      description: 'AI-powered RAG insights, summarizes content, and answers questions about uploaded documents.(deployment in progress)',
       image: 'https://images.pexels.com/photos/17484975/pexels-photo-17484975.png',
       technologies: ['LangChain', 'Chroma DB', 'FastAPI', 'React', 'OpenAI'],
       liveUrl: '',
