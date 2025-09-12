@@ -26,7 +26,7 @@ const AIProjects: React.FC = () => {
       id: 'persona-based-chatbot',
       title: 'Persona-Based Chatbot',
       description: 'Utilising LLM models build a persona instructed to respond as if it were Hitesh Choudhary & Piyush Garg to take reference tones dataset from their YouTube & Twitter',
-      image: 'https://www.freepik.com/free-photos-vectors/chatbot',
+      image: 'https://images.pexels.com/photos/29562925/pexels-photo-29562925.jpeg',
       technologies: ['GPT-4', 'LangChain', 'Streamlit', 'PostgreSQL', 'Docker'],
       liveUrl: 'https://hiteshsirpersona.netlify.app/',
       githubUrl: 'https://github.com/hiteshdhayal/HiteshSirPersona'
@@ -35,7 +35,7 @@ const AIProjects: React.FC = () => {
       id: 'RAG-system',
       title: 'RAG Intelligence System',
       description: 'AI-powered RAG insights, summarizes content, and answers questions about uploaded documents.',
-      image: 'https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation',
+      image: 'https://images.pexels.com/photos/17484975/pexels-photo-17484975.png',
       technologies: ['LangChain', 'Chroma DB', 'FastAPI', 'React', 'OpenAI'],
       liveUrl: '',
       githubUrl: 'https://github.com/hiteshdhayal/RAG'
