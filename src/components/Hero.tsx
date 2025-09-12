@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
         <div className="text-center max-w-5xl mx-auto">
           <div className="space-y-6">
             <div>
-              <h1 className="text-8xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight mt-50">
+              <h1 className="text-8xl sm:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight mt-30">
                 <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
                   HITESH
                 </span>
