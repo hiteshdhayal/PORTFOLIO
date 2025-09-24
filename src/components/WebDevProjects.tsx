@@ -19,7 +19,7 @@ const WebDevProjects: React.FC = () => {
       description: 'Full-stack wedding planning application with user authentication, event management, and vendor integration.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe', 'JWT'],
-      liveUrl: 'https://6873b0e6b7c3971dd0771137--steady-narwhal-e31522.netlify.app/',
+      liveUrl: 'https://687a1c00b6bc666bb8285cf4--brilliant-trifle-ea23e7.netlify.app/',
       githubUrl: 'https://github.com/hiteshdhayal/betting-APP'
     },
     {
@@ -28,7 +28,7 @@ const WebDevProjects: React.FC = () => {
       description: 'Real-time betting application with user authentication, live odds, and payment integration.',
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'Express.js', 'MongoDB', 'Socket.io', 'Tailwind'],
-      liveUrl: 'https://687a1c00b6bc666bb8285cf4--brilliant-trifle-ea23e7.netlify.app/',
+      liveUrl: 'https://6873b0e6b7c3971dd0771137--steady-narwhal-e31522.netlify.app/',
       githubUrl: ''
     },
     {
